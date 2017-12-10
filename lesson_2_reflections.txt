@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 i get an empty repository. need this step to actually get a repository
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+it is a middle area to confirm the files that i want to make a commit with. i can specify the files that i want to commit.
