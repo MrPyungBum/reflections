@@ -7,3 +7,8 @@ i get an empty repository. need this step to actually get a repository
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 it is a middle area to confirm the files that i want to make a commit with. i can specify the files that i want to commit.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+i can use git add and check that i have made only one logical change before commiting by using git diff
