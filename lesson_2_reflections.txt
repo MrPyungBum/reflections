@@ -22,3 +22,8 @@ when i make differenet versions of game with the same mechanics.
 How do the diagrams help you visualize the branch structure?
 
 duh i can see them wth my eyes
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it merges all the changes made in two different branchs into one. it represent them in the diagram so that we can see both branches and their commits
