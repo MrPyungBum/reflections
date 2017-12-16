@@ -6,3 +6,10 @@ when i want share a profect with other people online
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 you not want to share it with the commits that you have made
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+fork : making a same copy in github. doesnt change the original one
+clone : making a copy in github from my local repository
+branch : making a branch of commits in a repository
