@@ -23,3 +23,8 @@ because remote repository can be modified by other person or by myself in other 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 by sending codes directing to people via mail or other stuff. this would make things much easier but github itself is hard to use
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+when i make experimental changes that doesnt alter the master. i can delete the whole branch if something goes wrong. if i work on master branch, i would have to find the changes i have made and checkout to that point
