@@ -18,3 +18,8 @@ branch : making a branch of commits in a repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 because remote repository can be modified by other person or by myself in other devices
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+by sending codes directing to people via mail or other stuff. this would make things much easier but github itself is hard to use
